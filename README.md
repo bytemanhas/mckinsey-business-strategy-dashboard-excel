@@ -1,6 +1,8 @@
 # mckinsey-business-strategy-dashboard-excel
 Built a 3-page McKinsey-style business strategy dashboard in Excel to analyze revenue, profitability, and expansion opportunities across 8 Indian markets using advanced charts, KPI cards, and strategic insights.
-Project Overview
+
+
+**Project Overview**
 
 This project is a McKinsey-style business strategy case study dashboard built entirely in Microsoft Excel to analyze business performance across multiple Indian markets.
 
@@ -12,7 +14,7 @@ What should we do next? → Expansion Strategy
 
 Using revenue, profit, discount, and market-level performance data, the dashboard identifies growth opportunities, profitability leakage, and strategic expansion priorities.
 
-Tools Used
+**Tools Used**
 Microsoft Excel
 Pivot Tables
 Pivot Charts
@@ -42,7 +44,10 @@ Kolkata
 Mumbai
 Noida
 Pune
-Dashboard 1 — Executive Overview
+
+
+
+**Dashboard 1 — Executive Overview**
 
 This dashboard provides a high-level business summary.
 
@@ -58,11 +63,12 @@ Chennai generated highest revenue
 Mumbai delivered strongest profit contribution
 Product category contribution remained balanced
 Overall business maintained healthy margins
-Dashboard 2 — Profitability Analysis
+
+**Dashboard 2 — Profitability Analysis**
 
 This dashboard identifies profitability drivers and margin leakage.
 
-Key Findings
+**Key Findings**
 Mumbai delivered strongest profitability
 Delhi recorded weakest profit margin
 Noida showed lowest absolute profit
@@ -72,18 +78,18 @@ Business Insight
 
 High discounting in Delhi compressed profitability despite strong revenue contribution.
 
-Dashboard 3 — Expansion Strategy
-
+**Dashboard 3 — Expansion Strategy
+**
 This dashboard identifies growth opportunities and expansion priorities.
 
-Strategic Focus
+**Strategic Focus**
 
 Markets were classified into four segments:
 
-INVEST
+**INVEST
 GROW
 OPTIMIZE
-MONITOR
+MONITOR**
 
 Using a Market Opportunity Matrix, cities were evaluated based on:
 
@@ -114,6 +120,8 @@ Strategic Analysis
 Executive Storytelling
 Dashboard Design
 Data Visualization in Excel
+
 Final Conclusion
+This project demonstrates how Excel can be used beyond reporting to create consulting-grade business strategy dashboards that support executive decision-making.
 
 This project demonstrates how Excel can be used beyond reporting to create consulting-grade business strategy dashboards that support executive decision-making.
